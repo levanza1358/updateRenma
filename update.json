@@ -1,12 +1,12 @@
-{
+﻿{
   "latest": {
-    "version_name": "1.7",
-    "version_code": 8,
+    "version_name": "1.8",
+    "version_code": 9,
     "release_date": "2026-03-31",
     "mandatory": false,
-    "download_url": "https://github.com/levanza1358/updateRenma/releases/download/1.7/renma-1.7.apk",
+    "download_url": "https://github.com/levanza1358/updateRenma/releases/download/1.8/renma-1.8.apk",
     "changelog": [
-    "test update lagi"
+    "test update"
     ],
     "min_android": 13,
     "size_mb": 0
