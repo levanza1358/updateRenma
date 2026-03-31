@@ -1,10 +1,10 @@
 ﻿{
   "latest": {
-    "version_name": "1.10",
-    "version_code": 11,
+    "version_name": "1.11",
+    "version_code": 12,
     "release_date": "2026-03-31",
     "mandatory": false,
-    "download_url": "https://github.com/levanza1358/updateRenma/releases/download/1.10/renma-1.10.apk",
+    "download_url": "https://github.com/levanza1358/updateRenma/releases/download/1.11/renma-1.11.apk",
     "changelog": [
     "Bug fixes and improvements"
     ],
