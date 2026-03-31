@@ -1,12 +1,12 @@
 ﻿{
   "latest": {
-    "version_name": "1.12",
-    "version_code": 13,
+    "version_name": "1.13",
+    "version_code": 14,
     "release_date": "2026-03-31",
     "mandatory": false,
-    "download_url": "https://github.com/levanza1358/updateRenma/releases/download/1.12/renma-1.12.apk",
+    "download_url": "https://github.com/levanza1358/updateRenma/releases/download/1.13/renma-1.13.apk",
     "changelog": [
-    "new update"
+    "Bug fixes and improvements"
     ],
     "min_android": 13,
     "size_mb": 0
