@@ -1,22 +1,16 @@
-{
-    "latest":  {
-                   "version_name":  "1.1",
-                   "version_code":  2,
-                   "release_date":  "2026-03-31",
-                   "mandatory":  false,
-                   "download_url":  "https://github.com/levanza1358/updateRenma/releases/download/v1.1/renma-v1.1.apk",
-                   "changelog":  [
-                                     "ðŸŽ‰ Initial release of Renma",
-                                     "ðŸ“– Browse and read manga from WeebCentral",
-                                     "â­ Library management with reading history",
-                                     "ðŸ”„ Cloud sync across devices",
-                                     "ðŸ’Ž Premium subscription via QRIS \u0026 PayPal",
-                                     "ðŸŒ™ Dark mode \u0026 multiple theme accents",
-                                     "ðŸ“¥ Download chapters for offline reading"
-                                 ],
-                   "min_android":  13,
-                   "size_mb":  12.5
-               },
-    "announcement":  null,
-    "maintenance":  false
+﻿{
+  "latest": {
+    "version_name": "1.2",
+    "version_code": 3,
+    "release_date": "2026-03-31",
+    "mandatory": false,
+    "download_url": "https://github.com/levanza1358/updateRenma/releases/download/1.2/renma-1.2.apk",
+    "changelog": [
+    "Bug fixes and improvements"
+    ],
+    "min_android": 13,
+    "size_mb": 0
+  },
+  "announcement": null,
+  "maintenance": false
 }
