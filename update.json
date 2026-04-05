@@ -1,12 +1,12 @@
 ﻿{
   "latest": {
-    "version_name": "1.18",
-    "version_code": 18,
+    "version_name": "1.19",
+    "version_code": 19,
     "release_date": "2026-04-05",
     "mandatory": false,
-    "download_url": "https://github.com/levanza1358/updateRenma/releases/download/1.18/renma-1.18.apk",
+    "download_url": "https://github.com/levanza1358/updateRenma/releases/download/1.19/renma-1.19.apk",
     "changelog": [
-    "Bug fixes and improvements"
+    "new feature"
     ],
     "min_android": 13,
     "size_mb": 0
